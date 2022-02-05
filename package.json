@@ -1,5 +1,5 @@
 {
-  "name": "vue-paper-dashboard",
+  "name": "price-tag-management",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -34,8 +34,8 @@
     "vue-template-compiler": "^2.6.10",
     "vuetify-loader": "^2.0.0-alpha.8"
   },
-  "description": "A sample admin dashboard based on paper dashboard UI template",
-  "author": "cristian.jora <joracristi@gmail.com>",
+  "description": "Dashboard for price tag management system",
+  "author": "Pedro Roldan <pedro.roldan@gmail.com>",
   "engines": {
     "node": ">= 8.1.4",
     "npm": ">= 5.0.0"
